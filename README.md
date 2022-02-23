@@ -8,4 +8,4 @@ Supplementary material
 
 [Click here to download the supplementary video](https://github.com/luiscarlosgph/robotic-endoscope-control/blob/main/content/supplementary_video.mp4?raw=true)
 
-If you cannot play it, [try with VLC media player](https://www.videolan.org/vlc/).
+If you cannot play it with your usual video player, [try with VLC media player](https://www.videolan.org/vlc/).
