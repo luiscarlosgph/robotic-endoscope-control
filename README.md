@@ -6,4 +6,4 @@ This repository contains the supplementary material for the journal article [Rob
 Supplementary material
 ----------------------
 
-[Click here to download the supplementary video](https://github.com/luiscarlosgph/robotic-endoscope-control/blob/main/content/supplementary_video.mp4)
+[Click here to download the supplementary video](https://github.com/luiscarlosgph/robotic-endoscope-control/blob/main/content/supplementary_video.mp4?raw=true)
